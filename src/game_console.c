@@ -1,7 +1,6 @@
 /*************************************************************************
-Title:    game_console Template
-Initial Author:   David Jahshan
-Extended by : (PUT YOUR NAME HERE) (PUT YOUR STUDENT NUMBER HERE)
+Title:    game_console main
+Initial Author:   Quentin Yang
 Software: AVR-GCC 
 Hardware: ATMEGA16 @ 8Mhz 
 

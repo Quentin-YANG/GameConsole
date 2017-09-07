@@ -1,7 +1,6 @@
 /*************************************************************************
 Title:    Game Console Template Header File
-Inital Author:   David Jahshan
-Extended by : (PUT YOUR NAME HERE) (PUT YOUR STUDENT NUMBER HERE) 
+Inital Author:   Quentin Yang
 Software: AVR-GCC 
 Hardware: ATMEGA16 @ 8Mhz 
 
