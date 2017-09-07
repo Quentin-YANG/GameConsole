@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=3.3V Pin=R7-1
+Removed Pin From Net: NetName=UP Pin=R7-2
+Removed Pin From Net: NetName=3.3V Pin=R8-1
+Removed Pin From Net: NetName=DOWN Pin=R8-2
+Removed Pin From Net: NetName=3.3V Pin=R9-1
+Removed Pin From Net: NetName=LEFT Pin=R9-2
+Removed Pin From Net: NetName=3.3V Pin=R10-1
+Removed Pin From Net: NetName=RIGHT Pin=R10-2
+Removed Pin From Net: NetName=3.3V Pin=R11-1
+Removed Pin From Net: NetName=KEY1 Pin=R11-2
+Removed Pin From Net: NetName=3.3V Pin=R12-1
+Removed Pin From Net: NetName=KEY2 Pin=R12-2
+Removed Pin From Net: NetName=3.3V Pin=R13-1
+Removed Pin From Net: NetName=KEY3 Pin=R13-2
+Removed Member From Class: ClassName=Game_Consol_Top Member=R7
+Removed Member From Class: ClassName=Game_Consol_Top Member=R8
+Removed Member From Class: ClassName=Game_Consol_Top Member=R9
+Removed Member From Class: ClassName=Game_Consol_Top Member=R10
+Removed Member From Class: ClassName=Game_Consol_Top Member=R11
+Removed Member From Class: ClassName=Game_Consol_Top Member=R12
+Removed Member From Class: ClassName=Game_Consol_Top Member=R13
+Change Component Designator: OldDesignator=POWER_LED NewDesignator=D1
+Change Net Name : Old Net Name=PC0 New Net Name=CS0
+Change Net Name : Old Net Name=PC1 New Net Name=RST
+Change Net Name : Old Net Name=PC6 New Net Name=CD
+Change Net Name : Old Net Name=PD5 New Net Name=CS
+Change Net Name : Old Net Name=PD6 New Net Name=WP
+Change Net Name : Old Net Name=PD7 New Net Name=HOLD

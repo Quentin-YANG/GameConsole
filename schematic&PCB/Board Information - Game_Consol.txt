@@ -1,0 +1,250 @@
+Board Information Report
+Filename     : C:\Users\pajes\Desktop\Quentin\Embedded SD\workshop\hardware\GameConsoleTemplate_qingyuan Yang\Game_Consol.PcbDoc
+Date         : 9/9/2016
+Time         : 4:25:55 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 78.5mmx44mm
+    Components on board, 56
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 147
+    Connections routed, 147
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 17, 148, 0, 918, 0, 0, 0, 0
+    Bottom Layer, 317, 40, 0, 4881, 0, 0, 0, 0
+    Mechanical 1, 0, 0, 0, 4, 0, 0, 0, 1
+    Mechanical 13, 0, 0, 0, 0, 0, 0, 0, 52
+    Mechanical 15, 0, 0, 0, 4, 0, 0, 0, 0
+    Mechanical 20, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 6, 0, 0, 255, 93, 0, 0, 0
+    Bottom Overlay, 9, 0, 0, 56, 27, 0, 0, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 34, 75, 0, 0, 0, 1, 0
+count : 16
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 75
+count : 1
+
+Non-Plated Hole Size, Pads, Vias
+    0mm, 22, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    0mm, 166, 0
+    0.508mm, 0, 75
+    0.9mm, 14, 0
+    1mm, 18, 0
+    1.1mm, 2, 0
+count : 5
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    0.508mm, 75
+    0.6mm, 4
+    0.778mm, 18
+    0.878mm, 10
+    0.932mm, 2
+count : 5
+
+Mid Layer Annular Ring Size, Count
+    0.508mm, 75
+    0.6mm, 4
+    0.778mm, 18
+    0.878mm, 10
+    0.932mm, 2
+count : 5
+
+Bottom Layer Annular Ring Size, Count
+    0.508mm, 75
+    0.6mm, 4
+    0.778mm, 18
+    0.878mm, 10
+    0.932mm, 2
+count : 5
+
+Pad Solder Mask, Count
+    0.1524mm, 222
+count : 1
+
+Pad Paste Mask, Count
+    0mm, 222
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    0.508mm, 222
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.254mm, 222
+count : 1
+
+Pad Relief Air Gap, Count
+    0.254mm, 222
+count : 1
+
+Pad Relief Entries, Count
+    4, 222
+count : 1
+
+Via Solder Mask, Count
+    0.1524mm, 75
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    0.508mm, 75
+count : 1
+
+Track Width, Count
+    0.2mm, 288
+    0.2032mm, 17
+    0.254mm, 5703
+    0.508mm, 110
+count : 4
+
+Arc Line Width, Count
+    0.1778mm, 2
+    0.254mm, 343
+    0.508mm, 4
+count : 3
+
+Arc Radius, Count
+    0.125mm, 4
+    0.508mm, 115
+    0.595mm, 2
+    0.635mm, 6
+    0.889mm, 144
+    1.131mm, 2
+    1.27mm, 64
+    1.397mm, 3
+    2.218mm, 9
+count : 9
+
+Arc Degrees, Count
+    6, 1
+    8, 2
+    9, 4
+    10, 8
+    11, 7
+    12, 1
+    16, 2
+    21, 3
+    23, 2
+    24, 2
+    26, 1
+    27, 2
+    29, 1
+    30, 1
+    32, 5
+    34, 2
+    35, 2
+    36, 2
+    40, 2
+    44, 8
+    45, 97
+    46, 3
+    54, 1
+    55, 9
+    57, 1
+    60, 2
+    62, 1
+    63, 1
+    64, 1
+    65, 2
+    68, 2
+    72, 1
+    76, 1
+    81, 3
+    84, 1
+    87, 1
+    88, 1
+    89, 1
+    90, 22
+    91, 2
+    95, 2
+    98, 1
+    100, 6
+    106, 1
+    111, 2
+    113, 1
+    114, 1
+    116, 3
+    118, 3
+    123, 2
+    128, 1
+    132, 1
+    134, 3
+    135, 1
+    141, 2
+    142, 1
+    143, 1
+    145, 6
+    147, 1
+    148, 3
+    149, 1
+    153, 1
+    159, 1
+    170, 1
+    179, 1
+    180, 33
+    183, 1
+    188, 1
+    190, 2
+    191, 1
+    203, 2
+    212, 1
+    215, 2
+    224, 1
+    225, 1
+    226, 1
+    235, 3
+    236, 1
+    237, 1
+    238, 1
+    251, 1
+    270, 2
+    277, 1
+    280, 3
+    290, 3
+    360, 29
+count : 86
+
+Text Height, Count
+    0.9144mm, 120
+count : 1
+
+Text Width, Count
+    0.2032mm, 120
+count : 1
+
+Net Track Width, Count
+    0.1524mm, 44
+count : 1
+
+Net Via Size, Count
+    1.016mm, 44
+count : 1

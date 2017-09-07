@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=KEY2 Pin=S7-3
+Added Pin To Net: NetName=KEY2 Pin=S7-4

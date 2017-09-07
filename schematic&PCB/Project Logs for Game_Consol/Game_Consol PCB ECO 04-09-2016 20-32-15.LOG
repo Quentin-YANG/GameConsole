@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=S2-2
+Removed Pin From Net: NetName=UP Pin=S2-4
+Removed Pin From Net: NetName=GND Pin=S3-2
+Removed Pin From Net: NetName=DOWN Pin=S3-4
+Removed Pin From Net: NetName=GND Pin=S4-2
+Removed Pin From Net: NetName=LEFT Pin=S4-4
+Removed Pin From Net: NetName=GND Pin=S5-2
+Removed Pin From Net: NetName=RIGHT Pin=S5-4
+Removed Pin From Net: NetName=GND Pin=S6-2
+Removed Pin From Net: NetName=KEY1 Pin=S6-4
+Removed Pin From Net: NetName=GND Pin=S7-2
+Removed Pin From Net: NetName=KEY2 Pin=S7-4
+Removed Pin From Net: NetName=GND Pin=S8-2
+Removed Pin From Net: NetName=KEY3 Pin=S8-4
+Removed Pin From Net: NetName=GND Pin=S9-2
+Removed Pin From Net: NetName=RESET Pin=S9-4
+Added Member To Class: ClassName=Game_Consol_Power Member=Component BT1 1.5v
+Added Member To Class: ClassName=Game_Consol_Top Member=Component S3 SW-DOWN

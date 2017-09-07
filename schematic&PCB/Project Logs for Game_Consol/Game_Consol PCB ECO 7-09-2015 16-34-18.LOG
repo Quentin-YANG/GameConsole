@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=OUT Pin=R7-1
+Removed Pin From Net: NetName=UP Pin=R7-2
+Removed Pin From Net: NetName=OUT Pin=R8-1
+Removed Pin From Net: NetName=DOWN Pin=R8-2
+Removed Pin From Net: NetName=OUT Pin=R9-1
+Removed Pin From Net: NetName=RIGHT Pin=R9-2
+Removed Pin From Net: NetName=OUT Pin=R10-1
+Removed Pin From Net: NetName=LEFT Pin=R10-2
+Removed Pin From Net: NetName=OUT Pin=R12-1
+Removed Pin From Net: NetName=ACTION1 Pin=R12-2
+Removed Pin From Net: NetName=OUT Pin=R13-1
+Removed Pin From Net: NetName=ACTION2 Pin=R13-2
+Removed Pin From Net: NetName=OUT Pin=R14-1
+Removed Pin From Net: NetName=ACTION3 Pin=R14-2
+Removed Member From Class: ClassName=Game_Consol_Top Member=R8
+Removed Member From Class: ClassName=Game_Consol_Top Member=R9
+Removed Member From Class: ClassName=Game_Consol_Top Member=R10
+Removed Member From Class: ClassName=Game_Consol_Top Member=R11
+Removed Member From Class: ClassName=Game_Consol_Top Member=R12
+Removed Member From Class: ClassName=Game_Consol_Top Member=R13
+Removed Member From Class: ClassName=Game_Consol_Top Member=R14
+Change Component Designator: OldDesignator=C6 NewDesignator=C13
+Change Component Designator: OldDesignator=C7 NewDesignator=C14
+Change Component Designator: OldDesignator=C8 NewDesignator=C15
+Change Component Designator: OldDesignator=C9 NewDesignator=C16
+Change Component Designator: OldDesignator=C10 NewDesignator=C6
+Change Component Designator: OldDesignator=C11 NewDesignator=C7
+Change Component Designator: OldDesignator=C12 NewDesignator=C8
+Change Component Designator: OldDesignator=C13 NewDesignator=C9
+Change Component Designator: OldDesignator=C14 NewDesignator=C10
+Change Component Designator: OldDesignator=C15 NewDesignator=C11
+Change Component Designator: OldDesignator=C16 NewDesignator=C12
+Change Component Designator: OldDesignator=R11 NewDesignator=R7
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC16_2
+Change Net Name : Old Net Name=OUT New Net Name=VCC
